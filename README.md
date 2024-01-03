@@ -1,8 +1,9 @@
 # US-Cost-of-Living-Analysis
 The US Family Budget Dataset provides insights into the cost of living in different US counties based on the Family Budget Calculator by the Economic Policy Institute (EPI).
 
-This dataset offers community-specific estimates for ten family types, including one or two adults with zero to four children, in all 1877 counties and metro areas across the United States.
-Interesting Task Ideas:
+This dataset offers community-specific estimates for ten family types, including one or two adults with zero to four children, in all 1877 counties and metro areas across the United States.<br>
+
+Interesting Task Ideas:<br>
 See how family budgets compare to the federal poverty line and the Supplemental Poverty Measure in different counties.
 Look into the money challenges faced by different types of families using the budgets provided.
 Find out which counties have the most affordable places to live, food, transportation, healthcare, childcare, and other things people need.
